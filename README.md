@@ -3,7 +3,7 @@
 > [!CAUTION]
 > Project was abononed in 2014.
 
- A cavebot (self-playing robot) for Medivia Online (former Tibianic).
+ A cavebot (self-playing robot) for [Medivia Online](https://medivia.online) (former Tibianic).
  
 ![screenshot](scrot.png)
 
